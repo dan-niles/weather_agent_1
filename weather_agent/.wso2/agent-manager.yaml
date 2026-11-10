@@ -7,3 +7,6 @@ mcpServers:
   - proxy: pixelgust
     env:
       url: PIXELGUST_MCP_URL
+org: default
+project: default
+agent: weather-agent-1
