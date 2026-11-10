@@ -1,0 +1,5 @@
+schemaVersion: '1.2'
+dependencies:
+  connectionReferences:
+    - name: Hrchat_Service___Knowledge_Base_Service1
+      resourceRef: service:/default-ai-services/hrchat-knowledge-base/v1/fc3ab/PUBLIC

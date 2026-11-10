@@ -1,0 +1,9 @@
+[package]
+org = "danniles"
+name = "forecast_mcp_server"
+version = "0.1.0"
+distribution = "2201.14.1"
+title = "Forecast MCP Server"
+
+[build-options]
+sticky = true
